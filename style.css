@@ -1,0 +1,44 @@
+input{
+    width: fit-content;
+    border-radius: 1rem;
+    background-color: gainsboro;
+    color: rgb(10, 9, 9);
+    font-size: 1.25rem;
+    padding: 0.2rem 1rem 0.2rem 1rem;
+    cursor: pointer;
+    height: fit-content;
+    text-align: center;
+    position: relative;
+}
+button{
+    width: fit-content;
+    border-radius: 1rem;
+    background-color: lavenderblush;
+    color: rgb(11, 10, 10);
+    font-size: 1.25rem;
+    padding: 0.2rem 1rem 0.2rem 1rem;
+    cursor: pointer;
+    height: fit-content;
+    text-align: center;
+}
+.un  {
+    width: fit-content;
+    border-radius: 1rem;
+    background-color: lavender;
+    color: rgb(10, 9, 9);
+    font-size: 1.25rem;
+    padding: 0.2rem 1rem 0.2rem 1rem;
+    cursor: pointer;
+    height: fit-content;
+
+}
+.pw{
+    width: fit-content;
+    border-radius: 1rem;
+    background-color: lavender;
+    color: rgb(10, 9, 9);
+    font-size: 1.25rem;
+    padding: 0.2rem 1rem 0.2rem 1rem;
+    cursor: pointer;
+    height: fit-content;
+}
